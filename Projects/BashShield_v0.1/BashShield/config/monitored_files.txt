@@ -1,0 +1,5 @@
+# Important files to monitor.
+# Uncomment files appropriate for your Linux environment.
+/etc/passwd
+/etc/hosts
+/etc/ssh/sshd_config

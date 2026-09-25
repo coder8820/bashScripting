@@ -1,0 +1,4 @@
+logs/*.log
+data/baseline.db
+reports/*.txt
+reports/*.html

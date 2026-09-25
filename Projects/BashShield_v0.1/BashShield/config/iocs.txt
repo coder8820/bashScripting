@@ -1,0 +1,4 @@
+# Example IOC filenames for lab/testing
+# Add known suspicious filenames here.
+example-malware
+suspicious-miner
